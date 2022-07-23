@@ -38,11 +38,12 @@ Alt tarafta çizdiğimiz devre şemasına bakarak uygun arduino modeline göre d
 
 
 ![enter image description here](https://donanimplus.com/wp-content/uploads/2019/02/sd-1.webp)
-Eğer sizde fark ettiyseniz bu devre bize  ]yazımızda anlattığımız pot ile servo kontrolünü hatırlattı… Hatırlattı değil mi 🙂 Neyse hatırlamadıysanız tekrar okuyabilirsiniz.. Bu proje arduino ile pot servo kontrolünü dahada pekiştireceğiz.
+Eğer sizde fark ettiyseniz bu devre bize yazımızda anlattığımız pot ile servo kontrolünü hatırlattı… Hatırlattı değil mi 🙂 Neyse hatırlamadıysanız tekrar okuyabilirsiniz.. Bu proje arduino ile pot servo kontrolünü dahada pekiştireceğiz.
 
 **Minik Not:**  Gördüğünüz üzere devrede iki tane güç kaynağı var önemli olan nokta ise  **GND**  uçları birbirine bağlanmalıdır.
 ![enter image description here](https://donanimplus.com/wp-content/uploads/2019/02/20190212_190450-min.webp)
 
 Neredeyse unutuyordum gördüğünüz üzere birde puştun dan butonumuz var 🙂 haliyle birde pull down direnci. Sanırsam bunu da  [şu](https://donanimplus.com/arduino-ile-serial-monitorden-buton-okuma/)  yazımızda anlatmıştık. Devre oldukça basit.
-Bir yazının daha sonuna geldik umarım faydalı olmuştur .. Anlamadığınız veya kafanıza takılan yerler olursa yorumda veya kişisel sosyal medya hesaplarımdan ulaşabilirsiniz.
+Bir yazının daha sonuna geldik umarım faydalı olmuştur.. 
+Anlamadığınız veya kafanıza takılan yerler olursa yorumda veya kişisel sosyal medya hesaplarımdan ulaşabilirsiniz.
 Kolay gelsin 🙂
