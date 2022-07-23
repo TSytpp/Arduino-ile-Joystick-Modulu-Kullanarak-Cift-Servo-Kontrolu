@@ -45,5 +45,5 @@ Eğer sizde fark ettiyseniz bu devre bize yazımızda anlattığımız pot ile s
 
 Neredeyse unutuyordum gördüğünüz üzere birde puştun dan butonumuz var 🙂 haliyle birde pull down direnci. Sanırsam bunu da  [şu](https://donanimplus.com/arduino-ile-serial-monitorden-buton-okuma/)  yazımızda anlatmıştık. Devre oldukça basit.
 Bir yazının daha sonuna geldik umarım faydalı olmuştur.. 
-Anlamadığınız veya kafanıza takılan yerler olursa yorumda veya kişisel sosyal medya hesaplarımdan ulaşabilirsiniz.
+Anlamadığınız veya kafanıza takılan yerler olursa kişisel sosyal medya hesaplarımdan ulaşabilirsiniz.
 Kolay gelsin 🙂
